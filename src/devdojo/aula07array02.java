@@ -12,7 +12,7 @@ public class aula07array02 {
         nomes[1] = "naruto";
         nomes [2] = "luffy";
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < nomes.length; i++) {
             System.out.println(nomes[i]);
         }
     }
