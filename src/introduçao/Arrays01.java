@@ -1,6 +1,4 @@
-package devdojo;
-
-import java.util.Arrays;
+package introduçao;
 
 public class Arrays01 {
     public static void main(String[] args) {

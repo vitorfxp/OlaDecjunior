@@ -1,4 +1,4 @@
-package devdojo;
+package introduçao;
 
 public class EstruturasCondicionaisSwitch {
     public static void main(String[] args) {

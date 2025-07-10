@@ -1,4 +1,4 @@
-package devdojo;
+package introduçao;
 
 public class aula07arrays03 {
     //formas de inicializar arrays
