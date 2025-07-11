@@ -2,7 +2,7 @@ package javacore.introduçaoAclasses.test;
 
 import javacore.introduçaoAclasses.dominio.Estudante;
 
-public class pessoaTeste01 {
+public class estudanteTeste01 {
     public static void main(String[] args) {
         Estudante estudante = new Estudante();
         estudante.nome = "luffy";
